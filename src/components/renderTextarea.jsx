@@ -1,3 +1,6 @@
+import { Button } from "antd";
+import TextArea from "antd/es/input/TextArea";
+
 const RenderTextarea = () => {
     return (
         <div className="wrapper">
